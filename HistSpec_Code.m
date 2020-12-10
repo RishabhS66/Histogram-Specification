@@ -1,6 +1,6 @@
 % Histogram Matching
 
-%% Reading input
+%% Reading input 
 Im1 = imread('givenhist.jpg'); % Image whose histogram is to be changed
 Im2 = imread('sphist.jpg'); % Image that will give the reference histogam
 
